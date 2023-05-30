@@ -8,7 +8,7 @@
  <h1> Goals for 2023 </h1> 
  <h2>
  - Currently job searching for my first software engineering job! <br>
- - Finish the complete Udemy courses for "Full stack web development" and "100 days Python".
+ - Finish the complete Udemy courses for "Full stack web development" and "100 days Python". <br>
  - Become more fluent in JavaScript & Python. <br>
  - Looking to collaborate on anything at the moment as I continue to take everything in. <br>
  </h2>

@@ -5,7 +5,7 @@
 -  Contact me me 254-624-5705
  </h3>
  
- <h1> Goals for 2023 <h1> 
+ <h1> Goals for 2023 </h1> 
  <h2>
  - Currently job searching for my first software engineering job! <br>
  - Finish the complete Udemy courses for "Full stack web development" and "100 days Python".

@@ -2,9 +2,16 @@
 <h3>
 -  I’m interested in starting my coding journey, getting to know the community and becoming a great programmer! <br>
 -  I've recently finished a coding bootcamp after close to a year of self teaching, and I’m currently job searching and continuing to build on my techincal knowledge. <br>
--  I’m looking to collaborate on anything at the moment as I'm starting to take everything in. <br>
 -  Contact me me 254-624-5705
  </h3>
+ 
+ <h1> Goals for 2023 <h1> 
+ <h2>
+ - Currently job searching for my first software engineering job! <br>
+ - Finish the complete Udemy courses for "Full stack web development" and "100 days Python".
+ - Become more fluent in JavaScript & Python. <br>
+ - Looking to collaborate on anything at the moment as I continue to take everything in. <br>
+ </h2>
 
 
 

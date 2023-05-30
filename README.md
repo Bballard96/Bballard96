@@ -1,4 +1,4 @@
--  Hi, I’m @Bballard96
+<h1> Hey! </h1>
 -  I’m interested in starting my coding journey, getting to know the community and becoming a great programmer!
 -  I've recently finished a coding bootcamp after close to a year of self teaching, and I’m currently job searching and continuing to build on my techincal knowledge.
 -  I’m looking to collaborate on anything at the moment as I'm starting to take everything in.

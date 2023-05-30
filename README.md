@@ -1,4 +1,4 @@
-<h1> Hey! </h1>
+<h1> Hey! 👨🏽‍💻 </h1>
 <h2>
 I’m interested in starting my coding journey, getting to know the community and becoming a great programmer! I've recently finished a coding bootcamp after close to a year of self teaching, and      I’m currently job searching and continuing to build on my techincal knowledge. <br>
  <br>

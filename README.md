@@ -13,7 +13,7 @@ Contact me me 254-624-5705 or - [LinkedIn](https://www.linkedin.com/in/brendan-b
  - Looking to collaborate on anything at the moment as I continue to take everything in. <br>
  </h2>
 <p align="left">
-<a href="https://linkedin.com/in/peter-lucido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-lucido" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peter-lucido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 

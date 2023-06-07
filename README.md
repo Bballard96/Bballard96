@@ -2,11 +2,11 @@
 <h2>
 I’m interested in starting my coding journey, getting to know the community and becoming a great programmer! I've recently finished a coding bootcamp after close to a year of self teaching, and      I’m currently job searching and continuing to build on my techincal knowledge. <br>
  <br>
-Contact me me 254-624-5705 or - LinkedIn 
+Contact me me @254-624-5705 or - LinkedIn 
  <p align="left">
 <a href="https://linkedin.com/in/brendan-ballard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
-
+My Portfolio: https://bballard96.github.io
  </h2>
 
  <h1> Goals for 2023 </h1> 

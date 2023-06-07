@@ -3,6 +3,7 @@
 I’m interested in starting my coding journey, getting to know the community and becoming a great programmer! I've recently finished a coding bootcamp after close to a year of self teaching, and      I’m currently job searching and continuing to build on my techincal knowledge. <br>
  <br>
 Contact me me 254-624-5705 or - [Linkedin](https://www.linkedin.com/in/brendan-ballard/)
+ - 👨‍💻 All of my projects are available at [LinkedIn](https://linkedin.com/in/peter-lucido)
  </h2>
  
  <h1> Goals for 2023 </h1> 

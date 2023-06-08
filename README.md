@@ -16,24 +16,38 @@ On my GitHub, you'll find a collection of projects and experiments that showcase
  ### Skills/Tools: 
  
  ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,django,git,js,postgres,html,python,bash,)
- <br>
- <h2>
+
+| Skills     |            |
+| ---------- | --------   |
+| React      | NodeJs     |
+| JavaScript | Express    |
+| Render     | MongoDB    |
+| HTML5      | CSS3       |
+| Django     | Heroku     |
+| Python     | Django     |
+| Git        | Bash       |
+| Bootstrap  | PostgreSql |
+
+### Software
+ 
+| Software             |     
+| -------------------- | 
+| VS Code              |     
+| Postman API          |     
+| REST Framework       |     
+ 
+ 
+ 
+# Projects 
+ 
+
+ 
 Contact me me @254-624-5705 or - LinkedIn 
  <p align="left">
 <a href="https://linkedin.com/in/brendan-ballard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 My Portfolio: https://bballard96.github.io
- </h2>
-
- <h1> Goals for 2023 </h1> 
- <h2>
- - Currently job searching for my first software engineering job! <br>
- - Finish the complete Udemy courses for "Full stack web development" and "100 days Python". <br>
- - Become more fluent in JavaScript & Python. <br>
- - Looking to collaborate on anything at the moment as I continue to take everything in. <br>
- </h2>
-
-
+ </h2> 
 <!---
 Bballard96/Bballard96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

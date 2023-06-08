@@ -50,17 +50,6 @@ The game is about you, the player in a situation where you wake up after a night
 
 ![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/31d1a93e-8f3b-43a8-a29d-bf5e66d0500f)
 
-
-
-
-
- 
-Contact me me @254-624-5705 or - LinkedIn 
- <p align="left">
-<a href="https://linkedin.com/in/brendan-ballard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
-My Portfolio: https://bballard96.github.io
- </h2> 
   
  Portfolio [Brendan.com](https://bballard96.github.io) | Email [Brendan.ballard96@yahoo.com](mailto:Brendan.ballard96@yahoo.com)\
 [LinkedIn](https://www.linkedin.com/in/brendan-ballard/)

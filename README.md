@@ -61,6 +61,9 @@ Contact me me @254-624-5705 or - LinkedIn
 </p>
 My Portfolio: https://bballard96.github.io
  </h2> 
+  
+ Portfolio [Brendan.com](https://bballard96.github.io) | Email [Brendan.ballard96@yahoo.com](mailto:Brendan.ballard96@yahoo.com)\
+[LinkedIn](https://www.linkedin.com/in/brendan-ballard/)
 <!---
 Bballard96/Bballard96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -40,7 +40,7 @@ On my GitHub, you'll find a collection of projects and experiments that showcase
  
 # Projects 
  
-## ["Glass of OJ"](https://github.com/Bballard96/A-Glass-of-OJ)
+## <img ["Glass of OJ"](https://github.com/Bballard96/A-Glass-of-OJ)>
 
 ### JavaScript/HTML/CSS/Git 
 

@@ -40,6 +40,18 @@ On my GitHub, you'll find a collection of projects and experiments that showcase
  
 # Projects 
  
+## ["Glass of OJ"](https://github.com/Bballard96/A-Glass-of-OJ)
+
+### JavaScript/HTML/CSS/Git 
+
+The game is about you, the player in a situation where you wake up after a night of intense inebriation and realize your wallet is gone. You've got to make choices to retrace your steps and find the last place you think you might have left your wallet.
+
+### Check it out deployed here : ["Glass of OJ"](https://lucent-duckanoo-b36e0a.netlify.app)
+
+
+ <img src="![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/4f90d1c8-6268-4029-ac64-69c05d4e3fdb)" width="65%"> 
+
+
 
  
 Contact me me @254-624-5705 or - LinkedIn 

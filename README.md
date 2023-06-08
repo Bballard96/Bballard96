@@ -49,7 +49,7 @@ The game is about you, the player in a situation where you wake up after a night
 ### Check it out deployed here : ["Glass of OJ"](https://lucent-duckanoo-b36e0a.netlify.app)
 
 
- <img ![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/40ecbc33-4d92-434c-82f7-5ed4a5105842) width="5px" height="5px">
+ <img ![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/40ecbc33-4d92-434c-82f7-5ed4a5105842) width="5%" height="5p%">
 
 
 

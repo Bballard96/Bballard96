@@ -14,6 +14,8 @@ On my GitHub, you'll find a collection of projects and experiments that showcase
  ## I've worked with:
  
  ### Skills/Tools: 
+ 
+ ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,django,git,js,postgres,html,css,python,bash)
  <br>
  <h2>
 Contact me me @254-624-5705 or - LinkedIn 

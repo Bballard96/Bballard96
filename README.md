@@ -58,7 +58,7 @@ An app made to keep up with your current and future games. The user can add info
 
 ### Check it out deployed here : ["Gaming Backlog Tracker"](https://backlogbjb.fly.dev)
 
-<!-- ![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/31d1a93e-8f3b-43a8-a29d-bf5e66d0500f) -->
+<img src="https://github.com/Bballard96/Bballard96/assets/110790998/25ff49a4-a6b5-4ffa-895a-d8eb86ffedf8" width=600 height=300>
 
  
  

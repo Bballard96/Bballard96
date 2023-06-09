@@ -70,7 +70,7 @@ An app made to keep up with your current and future games. The user can add info
 
 ### Check it out deployed here : ["Cryptid Seeker"](https://lucent-duckanoo-b36e0a.netlify.app)
 
-<!-- ![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/31d1a93e-8f3b-43a8-a29d-bf5e66d0500f) -->
+<img src="https://github.com/Bballard96/Bballard96/assets/110790998/0051b962-8e38-42eb-97da-5ae9b32346c6" width=600 height=300>
 
   
  Portfolio [Brendan.com](https://bballard96.github.io) | Email [Brendan.ballard96@yahoo.com](mailto:Brendan.ballard96@yahoo.com)\

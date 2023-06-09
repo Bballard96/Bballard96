@@ -47,7 +47,7 @@ The game is about you, the player in a situation where you wake up after a night
 
 ### Check it out deployed here : ["Glass of OJ"](https://lucent-duckanoo-b36e0a.netlify.app)
 
-![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/31d1a93e-8f3b-43a8-a29d-bf5e66d0500f)
+![GlassOJ](https://github.com/Bballard96/Bballard96/assets/110790998/31d1a93e-8f3b-43a8-a29d-bf5e66d0500f | width=100)
  
  
 ## ["Gaming Backlog Tracker"](https://github.com/Bballard96/A-Glass-of-OJ)

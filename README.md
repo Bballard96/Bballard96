@@ -52,7 +52,7 @@ The game is about you, the player in a situation where you wake up after a night
  
 ## ["Gaming Backlog Tracker"](https://github.com/Bballard96/A-Glass-of-OJ)
 
-### JavaScript/HTML/CSS/Git 
+### JavaScript/HTML/CSS/Node/Express/MongoDB/GoogleOAuth/Mongoose
 
 An app made to keep up with your current and future games. The user can add information, including the hours played, whether the game has been completed or not, and comments during or after the playthrough of the game.
 
@@ -64,9 +64,9 @@ An app made to keep up with your current and future games. The user can add info
  
 ## ["Cryptid Seeker"](https://github.com/Bballard96/A-Glass-of-OJ)
 
-### JavaScript/HTML/CSS/Git 
+### JavaScript/HTML/CSS/Node.JS/ExpressJs/MongoDB/GoogleOAuth/Mongoose/React
 
-<!-- The game is about you, the player in a situation where you wake up after a night of intense inebriation and realize your wallet is gone. You've got to make choices to retrace your steps and find the last place you think you might have left your wallet. -->
+"Cryptid Seeker" is an app for people who hunt mythological creatures and want to share stories of their encounters with others & learn more about cryptids in the process.
 
 ### Check it out deployed here : ["Cryptid Seeker"](https://lucent-duckanoo-b36e0a.netlify.app)
 

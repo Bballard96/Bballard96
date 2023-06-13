@@ -62,13 +62,13 @@ An app made to keep up with your current and future games. The user can add info
 
  
  
-## ["Cryptid Seeker"](https://github.com/Bballard96/A-Glass-of-OJ)
+## ["Cryptid Seeker"](https://cryptid-seeker.netlify.app/)
 
 ### JavaScript/HTML/CSS/Node.JS/ExpressJs/MongoDB/GoogleOAuth/Mongoose/React
 
 "Cryptid Seeker" is an app for people who hunt mythological creatures and want to share stories of their encounters with others & learn more about cryptids in the process.
 
-### Check it out deployed here : ["Cryptid Seeker"](https://lucent-duckanoo-b36e0a.netlify.app)
+### Check it out deployed here : ["Cryptid Seeker"](https://cryptid-seeker.netlify.app/)
 
 <img src="https://github.com/Bballard96/Bballard96/assets/110790998/0051b962-8e38-42eb-97da-5ae9b32346c6" width=600 height=300>
 

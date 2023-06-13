@@ -22,7 +22,7 @@ On my GitHub, you'll find a collection of projects and experiments that showcase
 | JavaScript | Express    |
 | Render     | MongoDB    |
 | HTML5      | CSS3       |
-| Django     | NodeJs     |
+| Django     | Mongoose   |
 | Python     | Django     |
 | Git        | Bash       |
 | Bootstrap  | PostgreSql |

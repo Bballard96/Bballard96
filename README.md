@@ -14,18 +14,8 @@ On my GitHub, you'll find a collection of projects and experiments that showcase
  
  ### Skills/Tools: 
  
- ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,django,git,js,postgres,html,python,bash,)
+ ![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,heroku,bootstrap,django,git,js,postgres,html,python,bash,css)
 
-| Skills     |            |
-| ---------- | --------   |
-| React      | NodeJs     |
-| JavaScript | Express    |
-| Render     | MongoDB    |
-| HTML5      | CSS3       |
-| Django     | Mongoose   |
-| Python     | Django     |
-| Git        | Bash       |
-| Bootstrap  | PostgreSql |
 
 ### Software
  

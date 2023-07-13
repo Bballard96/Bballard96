@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-As a self-taught audio engineer proficient in Logic Pro X and FL Studio, I have always been captivated by the creative process behind music production. However, my love for technology and my insatiable curiosity have led me on an exciting transition into the world of tech.
+As a self-taught audio engineer proficient in Logic Pro X and FL Studio, A customer service representative for a large telecommunications company, and an electronic salesman for the largest consumer electronic retailer in the world, I have always been captivated by the creative process behind music production. However, my love for technology and my insatiable curiosity have led me on an exciting transition into the world of tech.
 I find immense joy in understanding how technology works and continually seeking out new knowledge to expand my skills. With each new challenge, I embrace the opportunity to learn and discover innovative ways to express my creativity. Coding has become a new language through which I can communicate my ideas, making the process of creation even more enjoyable.            
 On my GitHub, you'll find a collection of projects and experiments that showcase my journey as a tech enthusiast. I'm constantly pushing myself to explore new technologies, experiment with different tools, and contribute to open-source projects. I believe that sharing knowledge and collaborating with the community is crucial for personal and collective growth. 
 </td>

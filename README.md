@@ -2,8 +2,7 @@
 <table>
 <tr>
 <td>
-As a self-taught audio engineer proficient in Logic Pro X and FL Studio, A customer service representative for a large telecommunications company, and an electronic salesman for the largest consumer electronic retailer in the world, and most recently a data entry specialist for a large automobile trading company I have always been captivated by the creative process and a fan of independent thinking. However, my love for technology and my curiosity eventually led me on an exciting transition into the world of tech.
-I love trying to find an understanding of how technology works and continually seeking out new knowledge to expand my skills. Coding has become a new language through which I can communicate my ideas, making the process of creation even more enjoyable and exciting.            
+As a self-taught audio engineer proficient in Logic Pro X and FL Studio, A customer service representative for a large telecommunications company, an electronic salesman for the largest consumer electronic retailer in the world, and most recently a data entry specialist for a large automobile trading company I have always been captivated by the creative process and a fan of independent thinking. My love for technology and my curiosity eventually led me to a transition into the world of tech and coding has become a new language through which I can communicate my ideas, making the process of creation even more enjoyable and exciting.            
 On my GitHub, you'll find a collection of projects and experiments that showcase my journey through the tech world. I'm constantly pushing myself to explore new technologies and experiment with different tools as I continue to learn and try to grow my skills a little each day.
 </td>
 </tr>
